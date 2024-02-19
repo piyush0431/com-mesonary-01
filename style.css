@@ -49,7 +49,7 @@ body {
          columns: 2;
   }
 }
-@media (max-width: 380px) {
+@media (max-width: 600px) {
   .container {
     width: calc(100% - 15px);
     -moz-columns: 1;
